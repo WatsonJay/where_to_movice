@@ -112,9 +112,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.idea/inspectionProfiles/Project_Default.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/where_to_movice.iml
 .idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/Autogameplayer.iml
+.idea/vcs.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/where_to_movice.iml
